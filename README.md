@@ -1,4 +1,4 @@
-# Présentation d'une idée pouyr le projet final
+# Présentation d'une idée pour le projet final
 
 Lors de notre troisième année, nous avons la tâche de créer une installation intéractive. Pour ceci, je vais vous présenter une idée de projet final que nous pourrons, moi et mon équipe, discuter et élaborer.
 
@@ -9,22 +9,17 @@ Lors de notre troisième année, nous avons la tâche de créer une installation
 La structure intéractive va intégrer principalement trois intégrations en deux catégories, la première catégorie va être la catégorie enfant et la seconde va être celle pour les adultes. Pour la catégorie destinée aux enfants, il va y avoir une glissade intéractive, un jeu intéractif, un passage intéractif et pour la catégorie destinée aux adultes, il va y avoir un jeu intéractif qui pourra intéragir avoir le jeu destiné au enfant.
 
 ## Première intéraction
-À l'aide d'une simple vidéo, l'intélligence artificielle, développé par Wonder Studio, va détecter la présence humaine, transformer celle-ci en un personnage 3D et intégrer des lumières adéquates. Selon Wonder Studio, l'IA va automatiser 80% à 90% du travail manuel de VFX tout en réduisant les coût de matériels de motion capture. 
+Premièrement, il va y avoir un parcours de lumières et de sons. Cela va être possible à l'aide de mini capteur, de lumière et d'hauts parleurs qui vont être placés tout au long du module. Le capteur va détecter l'intéracteur et ensuite activé un scène. La scène va actionner les lumières et les hauts parleurs. 
 
+## Captation de l'intéracteur
+Pour la captation de l'intéracteur, je me suis inspirer de la vidéo de [ResinChem Tech](https://www.youtube.com/watch?v=Y29Y0iTLggg)
 ## Deuxième intéraction
-La plateforme 
 
-# Troisième intéraction
+## Troisième intéraction
 
-## L'avancée de la VFX grâce à Wonder Studio
+## Quatrième intéraction
 
-## Compagnies qui utilisent Wonder Studio
 
-# Exemple du fonctionnement
-
-## Exemple d'intégration dans une scène 3D
-
-## Rendu de la scène
 
 # Documentation
 
