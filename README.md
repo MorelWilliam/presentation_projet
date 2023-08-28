@@ -3,8 +3,7 @@
 Lors de notre troisième année, nous avons la tâche de créer une installation intéractive. Pour ceci, je vais vous présenter une idée de projet final que nous pourrons, moi et mon équipe, discuter et élaborer.
 
 ## Plan de présentation 
-[![Exemple d'intégration](https://3dvf.com/wp-content/uploads/2023/03/2023-03-10_102628.jpg)](https://www.youtube.com/watch?v=nEHCBPGo-5M)
-[![Exemple d'intégration](https://media.licdn.com/dms/image/D5612AQEd_Ddkiyy8xA/article-cover_image-shrink_600_2000/0/1681699729940?e=2147483647&v=beta&t=XpzAeDBbTzAc_VLICuTXzWCCoXBAClWdkcCHCXZjup4)](https://wonderdynamics.com/wp-content/uploads/2023/03/bodyMoCapSwipes.mp4#t=0.1)
+![plan_interactif](assets/plan_interactif.png)
 
 # Explication des intéractions
 
