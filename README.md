@@ -14,7 +14,7 @@ Premièrement, il va y avoir un parcours de lumières et de sons. Cela va être 
 ## Captation de l'intéracteur
 Pour la captation de l'intéracteur, je me suis inspirer de la vidéo de [ResinChem Tech](https://www.youtube.com/watch?v=Y29Y0iTLggg)
 ## Deuxième intéraction
-
+Deuxièmement, il va y avoir un jeu intéractif qui sera contrôlable par un volant se situant dans le module de jeu. Cette intéraction sera
 ## Troisième intéraction
 
 ## Quatrième intéraction
