@@ -19,14 +19,20 @@ Troisièment, il va avoir une glissade intéractive, la glissade serait illumin�
 
 ## Quatrième intéraction
 Quatrièmement, il va y avoir une grotte avec une projection. À l'aide d'un projecteur et de MadMapper, nous allons reproduire une petite histoire en s'inspirant des dessins que les hommes de caverne sculptaient dans les roches.
-
-## Présentation de MadMapper
+![grotte](assets/grotte.jpg)
 
 ## Cinquième intéraction
+Finalement, il va y avoir un jeu intéractif qui sera en lien avec celui pour les enfants qui sera créé via Maya et Unity.
 
+## Présentation de MadMapper
+Pour créer certaine des intéractions, nous aurons besoins d'utiliser MadMapper. MadMapper est un logiciel que nous allons voir cette année dans l'un de nos cours, mais laisser moi vous l'expliquez un peu. MadMapper est un logiciel utilisé pour le mapping vidéo donc pour projeter des vidéos ou des images sur des surfaces ondulés. Ce logiciel nous sera très utile lorsque nous allons projeter une vidéo sur la grotte. Comme la grotte n'est pas une surface plane, nous aurons besoins de MadMapper pour que la projection s'adapte à la surface.
 
-# Documentation
+## Technique de MadMapper
+Pour utiliser MadMapper, nous avons besoins de créer une carte , ou en anglais « mapping » , entre les points de notre médias ceux de la surface à projecter. Cela permet de déformer l'image pour qu'elle corresponde parfaitement à la forme de la surface.
 
-Wonder Studio / Documentation / « [WonderDynamicsDocumentation](https://help.wonderdynamics.com/intro-to-wonder-studio/introduction) »
-Wonder Studio / Page d'accueil /« [WonderDynamicsAccueil](https://wonderdynamics.com/) »
-Cgchannel / 11 juin 2023 / Jim Thacker / Wonder Studio is available / « [Wonder Studio is available](https://www.cgchannel.com/2023/07/wonder-studio-is-now-available/) »
+## Oeuvres avec MadMapper
+[Oeuvre](https://madmapper.com/gallery/)
+### Documentation
+
+MadMapper / Gallerie / « [MadMapper](https://madmapper.com/gallery/) »
+
