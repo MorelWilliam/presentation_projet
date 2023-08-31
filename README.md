@@ -6,13 +6,13 @@ Lors de notre troisième année, nous avons la tâche de créer une installation
 ![plan_interactif](assets/plan_interactif.png)
 
 # Explication des intéractions
-La structure intéractive va intégrer principalement quatre intégrations en deux catégories, la première catégorie va être la catégorie enfant et la seconde va être celle pour les adultes. Pour la catégorie destinée aux enfants, il va y avoir une glissade intéractive, un jeu intéractif, un passage intéractif et une grotte intéractive pour la catégorie destinée aux adultes, il va y avoir un jeu intéractif qui pourra intéragir avoir le jeu destiné au enfant.
+La structure intéractive va intégrer principalement quatre intégrations en deux catégories, la première catégorie va être la catégorie enfant et la seconde va être celle pour les adultes. Pour la catégorie destinée aux enfants, il va y avoir une glissade intéractive, un jeu intéractif, un passage intéractif et une grotte intéractive pour la catégorie destinée aux adultes, il va y avoir une pancarte intéractive.
 
 ## Première intéraction
 Premièrement, il va y avoir un parcours de lumières et de sons. Cela va être possible à l'aide de mini capteur, de lumière et d'hauts parleurs qui vont être placés tout au long du module. Le capteur va détecter l'intéracteur et ensuite activé un scène. La scène va actionner les lumières et les hauts parleurs. 
 
 ## Deuxième intéraction
-Deuxièmement, il va y avoir un jeu intéractif qui sera contrôlable par un volant se situant dans le module de jeu. Cette intéraction sera créer en 3D à l'aide du Logiciel Maya et Unity.
+Deuxièmement, il va y avoir un jeu intéractif qui sera contrôlable par un volant se situant dans le module de jeu. Cette intéraction sera créer en 3D à l'aide du Logiciel Maya et Unity. 
 
 ## Troisième intéraction
 Troisièment, il va avoir une glissade intéractive, la glissade serait illuminé grâce à des bandes de lumières LED qui seront programmées pour intéragir avec la présence humaine grâce à des capteurs de présences.
@@ -22,7 +22,7 @@ Quatrièmement, il va y avoir une grotte avec une projection. À l'aide d'un pro
 ![grotte](assets/grotte.jpg)
 
 ## Cinquième intéraction
-Finalement, il va y avoir un jeu intéractif qui sera en lien avec celui pour les enfants qui sera créé via Maya et Unity.
+Finalement, il va y avoir une pancarte déroulante décrivant l'oeuvre, mais certains éléments seront seulement visible par des enfants. En effet à l'aide de la technolgie "Lenticular printing", l'utilisateur pourra voir un texte afficher et celui va différencer par rapport avec sa grandeur.
 
 ## Présentation de MadMapper
 Pour créer certaine des intéractions, nous aurons besoins d'utiliser MadMapper. MadMapper est un logiciel que nous allons voir cette année dans l'un de nos cours, mais laisser moi vous l'expliquez un peu. MadMapper est un logiciel utilisé pour le mapping vidéo donc pour projeter des vidéos ou des images sur des surfaces ondulés. Ce logiciel nous sera très utile lorsque nous allons projeter une vidéo sur la grotte. Comme la grotte n'est pas une surface plane, nous aurons besoins de MadMapper pour que la projection s'adapte à la surface.
