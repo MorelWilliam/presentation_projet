@@ -1,38 +1,21 @@
-# Présentation d'une idée pour le projet final
+# Jeu intéractif
 
-Lors de notre troisième année, nous avons la tâche de créer une installation intéractive. Pour ceci, je vais vous présenter une idée de projet final que nous pourrons, moi et mon équipe, discuter et élaborer. L'idée serait de créer, à l'aide d'une module pour enfant, une structure intéractive qui démontre l'évolution du divertissement des enfants.
-
-# Plan de présentation 
 ![plan_interactif](assets/image_personnage_02.png)
 
-# Explication des intéractions
-La structure intéractive va intégrer principalement quatre intégrations en deux catégories, la première catégorie va être la catégorie enfant et la seconde va être celle pour les adultes. Pour la catégorie destinée aux enfants, il va y avoir une glissade intéractive, un jeu intéractif, un passage intéractif et une grotte intéractive pour la catégorie destinée aux adultes, il va y avoir une pancarte intéractive.
+# Explication du projet
+C'est un jeu intéractif que les utilisateurs pourront être en compétition pour gagner la partie. Chaque défaite sera accompagné d'un effet visuel et sonore. Le jeux intéractif sera placé dans deux bornes d'arcades personnalisées. Le jeu est encore à déterminer mais j'aimerais bien faire un Street Fighter style.
 
-## Première intéraction
-Premièrement, il va y avoir un parcours de lumières et de sons. Cela va être possible à l'aide de mini capteur, de lumière et d'hauts parleurs qui vont être placés tout au long du module. Le capteur va détecter l'intéracteur et ensuite activé un scène. La scène va actionner les lumières et les hauts parleurs. 
+## Techniques qui pourront être utilisées
+À l'aide de QLC +, nous pourrions faire un patcher de lumière qui réagirait aux sons,aux Victoires et Défaites. La scène Victoire pourrait être un gros blast de lumière vert accompagné d'un son et la scène de Défaite pourrait  être un gros blast de lumière rouge accompagné d'un son. Nous pourrions utiliser des "LED moving head light" qui seront de base projeté vers le sol et lors d'une victoire ou d'une défaite les projecteurs de lumière seront automatisés pour se diriger vers le haut tout en éclairant le plafond. Pour les bandes d'arcades elles pourront être trouvées usagées sur des sites comme Kijiji ou Marketplace. Par ailleurs, pour la programmations des boutons je pourrais utiliser Arduino. Finalement, pour la création du jeu nous pourrions utiliser Unity pour rendre notre jeux intéractif.
 
-## Deuxième intéraction
-Deuxièmement, il va y avoir un jeu intéractif sur une table. Le jeu serait une peu ressemblant à une bataille navale mais intéractif avec des animations. Le jeu aura deux écran et deux modules intéractifs qui serviront à placer leurs petits bateaux. Nous allons trouver une façon de garder le concept tout en ne pas copier le jeux.  
+## Lumière à tête rotative
+[Learn Lizard / 3 Ways to Control 4 Mini Moving Heads](https://www.youtube.com/watch?v=VVUMbJLnQLQ)
+## Télévision utilisant une lumière réactive similaire
+[Chris Maher / Ambilight kit](https://www.youtube.com/watch?v=7s7zvRgehJk)
+## Pour m'informer sur les boutons d'arcades et leurs fonctionnements
+Pour m'informer sur les boutons d'arcades et leurs fonctionnements je pourrais aller voir le github d'une équipe d'anciens finissants de la technique qui avait utilisé des boutons d'arcades pour les intéractions. Comme ça j'aurais déjà une idée de la difficulté, des problèmes que nous pourrions rencontrer et des logiciels à utiliser pour faire fonctionner des boutons d'arcades.
+[Jeux Temporel](https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
 
-## Troisième intéraction
-Troisièment, il va avoir une glissade intéractive, la glissade serait illuminé grâce à des bandes de lumières LED qui seront programmées pour intéragir avec la présence humaine grâce à des capteurs de présences.
 
-## Quatrième intéraction
-Quatrièmement, il va y avoir une grotte avec une projection. À l'aide d'un projecteur et de MadMapper, nous allons reproduire une petite histoire en s'inspirant des dessins que les hommes de caverne sculptaient dans les roches.
-![grotte](assets/grotte.jpg)
 
-## Cinquième intéraction
-Finalement, il va y avoir une pancarte déroulante décrivant l'oeuvre, mais certains éléments seront seulement visible par des enfants. En effet à l'aide de la technolgie "Lenticular printing", l'utilisateur pourra voir un texte afficher et celui va différencer par rapport avec sa grandeur.
-
-## Présentation de MadMapper
-Pour créer certaine des intéractions, nous aurons besoins d'utiliser MadMapper. MadMapper est un logiciel que nous allons voir cette année dans l'un de nos cours, mais laisser moi vous l'expliquez un peu. MadMapper est un logiciel utilisé pour le mapping vidéo donc pour projeter des vidéos ou des images sur des surfaces ondulés. Ce logiciel nous sera très utile lorsque nous allons projeter une vidéo sur la grotte. Comme la grotte n'est pas une surface plane, nous aurons besoins de MadMapper pour que la projection s'adapte à la surface.
-
-## Technique de MadMapper
-Pour utiliser MadMapper, nous avons besoins de créer une carte , ou en anglais « mapping » , entre les points de notre médias ceux de la surface à projecter. Cela permet de déformer l'image pour qu'elle corresponde parfaitement à la forme de la surface.
-
-## Oeuvres avec MadMapper
-[Oeuvre](https://madmapper.com/gallery/)
-### Documentation
-
-MadMapper / Gallerie / « [MadMapper](https://madmapper.com/gallery/) »
 
