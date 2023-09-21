@@ -1,6 +1,5 @@
 # Jeu intéractif
 
-![plan_interactif](assets/image_personnage_02.png)
 
 # Explication du projet
 C'est un jeu intéractif que les utilisateurs pourront être en compétition pour gagner la partie. Chaque défaite sera accompagné d'un effet visuel et sonore. Le jeux intéractif sera placé dans deux bornes d'arcades personnalisées. Le jeu est encore à déterminer mais j'aimerais bien faire un Street Fighter style.
@@ -9,7 +8,7 @@ C'est un jeu intéractif que les utilisateurs pourront être en compétition pou
 À l'aide de QLC +, nous pourrions faire un patcher de lumière qui réagirait aux sons,aux Victoires et Défaites. La scène Victoire pourrait être un gros blast de lumière vert accompagné d'un son et la scène de Défaite pourrait  être un gros blast de lumière rouge accompagné d'un son. Nous pourrions utiliser des "LED moving head light" qui seront de base projeté vers le sol et lors d'une victoire ou d'une défaite les projecteurs de lumière seront automatisés pour se diriger vers le haut tout en éclairant le plafond. Pour les bandes d'arcades elles pourront être trouvées usagées sur des sites comme Kijiji ou Marketplace. Par ailleurs, pour la programmations des boutons je pourrais utiliser Arduino. Finalement, pour la création du jeu nous pourrions utiliser Unity pour rendre notre jeux intéractif.
 
 ## Lumière à tête rotative
-[Learn Lizard / 3 Ways to Control 4 Mini Moving Heads](https://www.youtube.com/watch?v=VVUMbJLnQLQ)
+[Projietta](https://mappingprojector.com/interactive-wall-and-floors/)
 ## Télévision utilisant une lumière réactive similaire
 [Chris Maher / Ambilight kit](https://www.youtube.com/watch?v=7s7zvRgehJk)
 ## Pour m'informer sur les boutons d'arcades et leurs fonctionnements
