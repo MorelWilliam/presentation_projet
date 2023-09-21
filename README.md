@@ -1,6 +1,9 @@
 # Jeu intéractif
 
-
+	![alt text](plan.jpg)
+ 	![alt text](floors_mapping_projector.jpg)
+  	![alt text](floors_mapping_projector_02.jpg)
+   	![alt text](nouveaupavillon.png)
 # Explication du projet
 C'est un jeu intéractif que les utilisateurs pourront être en compétition pour gagner la partie. Chaque défaite sera accompagné d'un effet visuel et sonore. Le jeux intéractif sera placé dans deux bornes d'arcades personnalisées. Le jeu est encore à déterminer mais j'aimerais bien faire un Street Fighter style.
 
