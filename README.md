@@ -3,7 +3,7 @@
 Lors de notre troisième année, nous avons la tâche de créer une installation intéractive. Pour ceci, je vais vous présenter une idée de projet final que nous pourrons, moi et mon équipe, discuter et élaborer. L'idée serait de créer, à l'aide d'une module pour enfant, une structure intéractive qui démontre l'évolution du divertissement des enfants.
 
 # Plan de présentation 
-![plan_interactif](assets/plan_interactif_02.png)
+![plan_interactif](assets/image_personnage_02.png)
 
 # Explication des intéractions
 La structure intéractive va intégrer principalement quatre intégrations en deux catégories, la première catégorie va être la catégorie enfant et la seconde va être celle pour les adultes. Pour la catégorie destinée aux enfants, il va y avoir une glissade intéractive, un jeu intéractif, un passage intéractif et une grotte intéractive pour la catégorie destinée aux adultes, il va y avoir une pancarte intéractive.
