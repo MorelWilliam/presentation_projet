@@ -1,8 +1,10 @@
 # Jeu intéractif
 
 # Explication du projet
-
-## Lieu
+Ce projet est très inspiré du jeu "pong" par la société Atari. Le projet serait sectionner en 2 partie, une partie extérieure et une intérieure.
+## Premier Lieu
+![nouveaupavillon](assets/nouveaupavillon.png)
+## Deuxième Lieu
 ![nouveaupavillon](assets/nouveaupavillon.png)
 ## Plan
 ![plan](assets/plan.jpg)
