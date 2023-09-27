@@ -1,32 +1,14 @@
-# Jeu intéractif
+# Mysticache
 
 # Explication du projet
-Ce projet est très inspiré du jeu "pong" par la société Atari. Le projet serait sectionner en 2 partie, une partie extérieure et une intérieure.
-# Première partie
-La première oeuvre est une projection au sol qui sera intéractive à l'aide d'un module externe. Ce module sera deux boites intéractives qui seront équipés de capteur pour détecter un module dans la projection. Donc nous pourrons jouer au Pong, mais dans la vrai vie. Les intéracteurs seront les barres de pong et la projection sera le terrain de jeu. Pour mieux comprendre voici un plan de la première partie.
-## Premier Lieu
-![nouveaupavillon](assets/nouveaupavillon.png)
-## Plan première partie
-![plan](assets/plan.jpg)
-
-# Deuxième partie
-## Deuxième Lieu
-![nouveaupavillon](assets/nouveaupavillon.png)
+Mysticache est « mot-valise » des mots « Mystique » et « Cache Cache ». Le but du projet est de retrouvé des créatures, monstres, idées, images projétés dans l'extérieurs du collège et de les « capturer » à l'aide d'une application disponible en ligne ou sur les téléphones. À l'aide d'un parcours, qui n'a pas de commencement ou de fin précise, les intéracteurs devront retrouvé les « créatures » dans le domaine extérieur de l'école grâce à des sons, des lumières et des petites projections des « créatures ».
 
 
-## Matériels
-- Kinect
-- Projecteur
-- Pilier pour le projecteur et la kinect
-- 
 
-## Techniques qui pourront être utilisées
+Ce projet est très versatile, car les « objets » à scannés sont à définir en fonction du thème du projet. 
 
-## Exemples
-![floors_mapping_projector](assets/floors_mapping_projector.jpg)
-![floors_mapping_projector_02](assets/interactive-floor-projections_02.jpg)
-
-
+## Déroulement du projet
+À l'entrée de la partie (forêt) de la porte 1, il va y avoir un projection mural qui va s'activer à la détection de ou des intéracteurs. Ce projecteur va projeter une courte vidéo de présentation de leur objectif, de la mission à compléter et des rêglements à suivre.
 
 
 
