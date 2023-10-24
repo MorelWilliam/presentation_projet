@@ -19,7 +19,7 @@ Le jeu va être un type parcours et va être un mélange entre [Gorilla Tag](htt
 Pierrot, un petit chat, est un fanatique de croquette. Un jour il s'endormit dans ses croquettes, mais à son réveil il sera dans une dimension parllèle où la maison de son maitre sera transformé en une vraie épreuve. Pour sortir de son rêve, Pierrot doit sortir par la fenêtre du salon et celle-ci se situe au haut de l'épreuve. Il devra braver 8 épreuves, Entre les plantes, Balle de laine, Les gamelles, Lampe à chat, Le sphynx, L'arbre à chat, Le tissu et Le verre d'eau. 
 
 ## Carte
-![carte](assets/map_refonte.png)
+![carte](assets/map.png)
 ## Aspects techniques
 La méchanique principal du jeu sera le collider. Il sera beaucoup utilisé pour faire les courses sur les murs, la collisition avec les objets, la collisition du joueur avec le décors lors d'une chute et la collisition du joueur avec le sol.
 Aussi, nous aimerions utiliser l'effet d'hauteur pour créer un sentiment de vertige à l'utilisateur.
