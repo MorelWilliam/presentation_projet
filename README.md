@@ -24,7 +24,7 @@ Pierrot, un petit chat, est un fanatique de croquette. Un jour il s'endormit dan
 La méchanique principal du jeu sera le collider. Il sera beaucoup utilisé pour faire les courses sur les murs, la collisition avec les objets, la collisition du joueur avec le décors lors d'une chute et la collisition du joueur avec le sol.
 Aussi, nous aimerions utiliser l'effet d'hauteur pour créer un sentiment de vertige à l'utilisateur.
 ## Diagramme
-![diagramme](assets/diagramme.png)
+![diagramme](assets/Diagramme.jpg)
 
 ## Tableau avec les tâches principales du jeu
 [trello](https://trello.com/invite/b/SlbCPufY/ATTId80f81a325fbaf76761d72c1def17f2d1F6E0FBA/travail-final-vr)
