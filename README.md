@@ -7,6 +7,7 @@
 ![schéma](assets/schéma_branchement.png)
 
 ## Matériels
+- Projecteur
 - Mac mini
 - Boite Arnet to dmx
 - Panneau perforé en métal
