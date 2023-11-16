@@ -7,7 +7,11 @@
 ![schéma](assets/schéma_branchement.png)
 
 ## Achats
-[vinyl](https://www.imprimerieengros.com/autocollant-vinyle-perfore/)
+- [vinyl](https://www.imprimerieengros.com/autocollant-vinyle-perfore/)
+- Charnière
+- Panneau mdf
+- Vis
+- Panneau perforé en métal
 
 ## Problématiques probables de la borne
 - Coût des matériaux ( bois,vinyl )
