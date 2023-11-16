@@ -1,7 +1,6 @@
 # Canevas intéractif
 
-## Images
-![pattern](assets/pattern.jpg)
+## Borne
 ![front](assets/front.png)
 ![left](assets/left.png)
 ![schéma](assets/schéma_branchement.png)
@@ -36,3 +35,6 @@
 - Coût des matériaux ( bois,vinyl )
 - Mauvaise sonorité des hauts parleurs
 - Surchauffe du projecteur
+
+## Design
+![pattern](assets/pattern.jpg)
